@@ -11,6 +11,6 @@ Tässä on Kasperin projekti
   <li>I</li>
 </ol>
 
-**Maisema kuva**
+**Kissa kuva**
 
-[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
+https://www.bing.com/images/search?view=detailV2&ccid=M%2blaQQL9&id=BE505071BB886BF12936B418E8A6706108EFF372&thid=OIP.M-laQQL9xi1pvT4rqmEh6gHaEL&mediaurl=https%3a%2f%2f3.bp.blogspot.com%2f-JseOyAZ2lwU%2fW0XBShiq_pI%2fAAAAAAAANaE%2fzjv3RtAqZpo9nNsVOxRC5MJqGysNkcuuACKgBGAs%2fs1600%2f20180623_103735.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.33e95a4102fdc62d69bd3e2baa6121ea%3frik%3dcvPvCGFwpugYtA%26pid%3dImgRaw%26r%3d0&exph=902&expw=1600&q=kissa&simid=608039070474203072&FORM=IRPRST&ck=0C05B7F7E8EC85953525474EB9DBF33D&selectedIndex=7&ajaxhist=0&ajaxserp=0
