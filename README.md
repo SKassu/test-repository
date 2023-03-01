@@ -1,16 +1,13 @@
 # test-repository
 Tässä on Kasperin projekti
-##### Heading level 5 
-Noel on koodari
+##### Heading level 5 Noel on koodari
 [link] https://luksia.mmg.fi/my/?lang
 
 <a href="https://www.example.com/my great page"> Paina tästä</a>
 
-<ol>
-  <li>M</li>
-  <li>O</li>
-  <li>I</li>
-</ol>
+1. M
+2. O
+3. I
 
 **Kissa kuva**
 
