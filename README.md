@@ -9,4 +9,4 @@ Tässä on Kasperin projekti
 
 **Kissa kuva**
 
-![Kissa kuva](https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png)
+![Kissa kuva](https://static.luolasto.org/file/mahti-bucket/9100/Screenshot.png)
