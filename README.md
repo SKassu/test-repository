@@ -9,4 +9,4 @@ Tässä on Kasperin projekti
 
 **Kissa kuva**
 
-![Kissa kuva](https://trac.cc.jyu.fi/projects/npo/attachment/wiki/Lapsylintu/Vaihe3/lintu.png)
+![Kissa kuva](https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png)
