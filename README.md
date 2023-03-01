@@ -3,7 +3,7 @@ Tässä on Kasperin projekti
 ##### Noel on koodari
 [link] https://luksia.mmg.fi/my/?lang
 
-[link](https://www.example.com/my%20great%20page)
+<a href="https://www.example.com/my great page"> Paina tästä</a>
 
 1. M
 2. O
