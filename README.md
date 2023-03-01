@@ -10,3 +10,14 @@ Tässä on Kasperin projekti
 **Kissa kuva**
 
 ![Kissa kuva](https://static.luolasto.org/file/mahti-bucket/9100/Screenshot.png)
+
+#### Tehtäviä tiistaille
+* Tee koulu tehtävät
+* Tee koti töitä
+
+#### Top 5 Viikon päivää 
+1. Perjantai
+2. Lauantai
+3. Sununnuntai
+4. Maanantai
+5. Keskiviikko
